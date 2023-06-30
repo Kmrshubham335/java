@@ -11,7 +11,7 @@ public class Arr_palindrome
         { 
             //dividing the array in two half and comparing it.
             
-            if(arr[i]!=arr[n-1-i]){
+            if(arr[i]!=arr[n-i-1]){
 
             //arr[i]=starting index,arr[n-i-1]=ending index
 
