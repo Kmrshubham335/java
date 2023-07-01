@@ -1,5 +1,6 @@
 package Array;
 // finding the Duplicate element in the array
+//Time complexity:O(n), space Complexity:O(1)
 public class duplicate 
 {
     public static void main(String[] args) {
