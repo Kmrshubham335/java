@@ -1,4 +1,4 @@
-# java
+# JAVA
 In this Repository, I am completing all the Java chapter Code with explanations in Code.
 I have commented on the code for the explanation.
 This repository will also have the interview Code too.
