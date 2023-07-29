@@ -1,4 +1,6 @@
 package Recursion;
+//Time Complexity:O(2^n)
+/*Space complexity : O(N), as we are using recursion stack to store all intermediate results*/
 
 public class Fibonacci {
     public static void main(String[] args) {
