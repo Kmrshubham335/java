@@ -2,7 +2,7 @@ package Array;
 //Second Maximum Element in the array
 public class Second_Max {
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 4, 5, 6, 7};
+        int arr[] = {7 ,10 ,4 ,20 ,15};
         int n = arr.length;
         int First_Max = arr[0];
         int Second_Max = arr[0];
