@@ -9,7 +9,7 @@ public class balance_Paren {
 
     public static void FindBalanceParentheses(int n, int ob, int cb, StringBuilder ans) {
         if (n == ob && cb == n) {
-            System.out.println(ans.toString());
+            System.out.println(ans.toString());       // Base case
             return;
         }
         if (ob < n) {
