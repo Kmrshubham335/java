@@ -1,5 +1,4 @@
 package String;
-
 public class compare {  
    public static void main(String[] args) {  
       String str1 = "String", str2 = "Comparison";  
@@ -13,4 +12,4 @@ public class compare {
          System.out.println("str1 is less than str2");  
       }  
    }  
-}  
+}     
