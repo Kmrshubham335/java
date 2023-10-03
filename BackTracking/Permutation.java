@@ -1,4 +1,5 @@
-public class Permutation {
+package BackTracking;
+ class Permutation {
     public static String swap(String str, int i, int j)
     {
         char temp;
@@ -17,6 +18,8 @@ public class Permutation {
     * */
     public static void permute(String str, int l, int r)
     {
+        //base condition
+
         if(l == r)
         {
             System.out.println(str);
