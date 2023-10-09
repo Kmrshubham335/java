@@ -15,7 +15,11 @@ class student
     }
 }
 public class static1 {
+    static void hello(){
+        System.out.println("Static method in Main class");
+    }
     public static void main(String[] args) {
+
         student obj=new student();
         obj.age=19;
         obj.show();
@@ -23,6 +27,7 @@ public class static1 {
         obj1.age=23;
         obj1.show();
         System.out.println(student.school); //Static variable call
+        hello();
         
     }
     
